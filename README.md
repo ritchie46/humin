@@ -31,11 +31,10 @@ git clone https://github.com/ritchie46/humin.git
 __[config.toml](https://github.com/mgjohansen/hucore/blob/master/exampleSite/config.toml)__:
 
 ```toml
-baseurl = "https://example.com"
+baseurl = "https://www.ritchievink.com"
 languageCode = "en"
 title = "Humin"
 theme = "humin"
-copyright = "&copy; 2017 | Follow on <a href=\"https://twitter.com/mgjohansen\" target=\"_blank\">Twitter</a> | <a href=\"https://github.com/mgjohansen/hucore.git\" target=\"_blank\">Hucore theme</a> & <a href=\"http://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
 disqusShortname = "shortname"
 googleAnalytics = "trackingcode"
 
@@ -46,8 +45,20 @@ category = "categories"
 [params]
 description = "Your description here"
 keywords = ["keyword 1", "keyword 2", "keyword 3"]
-author = "Morten G. Johansen"
+author = "Ritchie Vink"
 sharingicons = true
+
+[[params.static_pages]]
+url = "/about/"
+tag = "about"
+
+[[params.static_pages]]
+url = "/anastruct/"
+tag = "anastruct"
+
+[[params.static_pages]]
+url = "/mnkappa/"
+tag = "m-n-kappa"
 
 [params.highlight]
 style = "github"
@@ -74,7 +85,7 @@ url = "/index.xml"
 fa_icon = "fa-rss"
 
 [[params.socialshare]]
-url = "https://linkedin.com/in/muser"
+url = "https://linkedin.com/in/user"
 fa_icon = "fa-linkedin-square"
 ```
 
