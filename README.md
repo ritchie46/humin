@@ -1,4 +1,4 @@
-# Hucore
+# Humin
 
 Humin is a minimal blog theme for [hugo](http://gohugo.io). The theme is based on [Hucore](https://github.com/mgjohansen/hucore).
 
@@ -13,9 +13,8 @@ Humin is a minimal blog theme for [hugo](http://gohugo.io). The theme is based o
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/ritchie46/humin/master/images/screenshot_github.png)
+![](https://raw.githubusercontent.com/ritchie46/humin/master/images/screenshot.jpg)
 
-See [kloudcore.com](https://kloudcore.com) for an example of this theme in use.
 
 ## Getting Started
 
