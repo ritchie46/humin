@@ -13,7 +13,7 @@ Humin is a minimal blog theme for [hugo](http://gohugo.io). The theme is based o
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/ritchie46/humin/master/images/screenshot.jpg)
+![](https://raw.githubusercontent.com/ritchie46/humin/master/images/screenshot.png)
 
 
 ## Getting Started
