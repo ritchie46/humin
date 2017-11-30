@@ -1,6 +1,6 @@
 # Humin
 
-Humin is a minimal blog theme for [hugo](http://gohugo.io). The theme is based on [Hucore](https://github.com/mgjohansen/hucore).
+Humin is a minimal blog theme for [hugo](http://gohugo.io). The theme is based on [Hucore](https://github.com/mgjohansen/hucore) and [Hemmingway2](https://gitlab.com/beli3ver/hemingway2). 
 
 ## Features
 
@@ -10,6 +10,7 @@ Humin is a minimal blog theme for [hugo](http://gohugo.io). The theme is based o
 * Basic [OpenGraph](http://ogp.me/) metadata support
 * Option for social sharing icons on posts
 * Option for author on posts
+* Option for static pages
 
 ## Screenshot
 
@@ -91,4 +92,4 @@ fa_icon = "fa-linkedin-square"
 
 ## Credits
 
-Humin is based on [Hucore](https://github.com/mgjohansen/hucore). 
+Humin is based on [Hucore](https://github.com/mgjohansen/hucore) and [Hemmingway2](https://gitlab.com/beli3ver/hemingway2). 
