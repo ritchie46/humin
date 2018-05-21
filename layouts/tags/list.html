@@ -8,7 +8,7 @@
         <ul>
         {{ range sort .Paginator.Pages }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}
-                <span style="float:right; padding-right: 5em;">{{ .Date.Format "January 2, 2006" }} </span>
+                <span style="float:right; padding-right: 5em;">{{ .Date.Format "02-01-2006" }} </span>
             </li>
         {{ end }}
         </ul>
