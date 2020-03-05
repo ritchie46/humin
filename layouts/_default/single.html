@@ -12,7 +12,6 @@
       {{ .Content }}
     </div>
     {{ if (ne ($.Param "sharingicons") false) }}
-    {{ partial "sharing.html" . }}
     {{ end }}
   </div>
 </section>
